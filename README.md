@@ -95,9 +95,10 @@ Decision Tree performed better in the Regression models.
 Finally, With the proper tuning of Hyperparameter we can improve these models performance in the future. 
 My recommendation is to use Logistic Regression in classification model and use Decision tree for Regression Model.</p>
 <p>
-	[Link to notebook] http://localhost:8889/notebooks/jupiter_dir/nyc/NYC%20Taxi%20Trip%20Analysis.ipynb<br>
- 
-	[Link to download data]
+	[Link to notebook] https://github.com/johnsi/rideshare_trip_ml/blob/main/NYC%20Taxi%20Trip%20Analysis.ipynb <br>
+ 	[Link to download data] https://github.com/johnsi/rideshare_trip_ml/blob/main/data/rideshare_data.csv <br>
+ 	[Link to original data] https://www.kaggle.com/code/neomatrix369/chaieda-nyc-taxi-trip-duration-analysis/input?select=train_test_extended.csv <br>
+  
 </p>
    
 
